@@ -6,7 +6,7 @@ We use Eclipse for development.
 
 Building
 -----
-To build with Maven,
+To build with Maven in Eclipse, simply right click your project under the Project Explorere window and select "Run as ... Maven Install". That should build the proper jar file.
 
 
 Commit Guidelines
